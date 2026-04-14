@@ -65,9 +65,9 @@ The dataset contains information about telecom customers, including:
 
 | Model                | Accuracy | Recall (Churn) | Precision | F1-score | ROC-AUC |
 |---------------------|----------|----------------|-----------|----------|---------|
-| Logistic Regression | 0.79     | 0.79           | 0.51      | 0.62     | 0.84    |
-| LightGBM            | 0.78     | 0.52           | 0.62      | 0.56     | 0.83    |
-| Random Forest       | 0.77     | 0.46           | 0.60      | 0.52     | 0.81    |
+| Logistic Regression | 0.79     | 0.53           | 0.63      | 0.58     | 0.84    |
+| LightGBM            | 0.78     | 0.52           | 0.62      | 0.57     | 0.83    |
+| Random Forest       | 0.78     | 0.46           | 0.61      | 0.52     | 0.82    |
 
 📌 Logistic Regression achieved the best overall performance after tuning.
 
