@@ -75,6 +75,5 @@ The dataset contains information about telecom customers, including:
 
 ## 📈 ROC Curve & Feature Importance
 
-```markdown
-![ROC Curve](https://github.com/Destyarosa12/TELCO-COSTUMER-CHURN-PREDICTION/blob/main/result/feature-importance.png?raw=true)
+![ROC Curve](result/roc-curve.png)
 ![Feature Importance](result/feature-importance.png)
