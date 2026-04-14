@@ -76,5 +76,5 @@ The dataset contains information about telecom customers, including:
 ## 📈 ROC Curve & Feature Importance
 
 ```markdown
-![ROC Curve](images/roc_curve.png)
-![Feature Importance](images/feature_importance.png)
+![ROC Curve](result/roc-curve.png)
+![Feature Importance](result/feature-importance.png)
